@@ -5,9 +5,9 @@ This project is aimed at providing Romanian Holidays calendars for multiple devi
 There are 14 public holidays in 2018 in Romania:
 * January, 1st (Monday) & 2nd (Tuesday) – New Year's Days
 * January, 24th (Wednesday) – The Day of the Union of Romanian Principalities
-* April, 8th (Sunday) & 9 (Monday) – Easter
+* April, 8th (Sunday) & 9th (Monday) – Easter
 * May, 1st (Tuesday) – Labor Day
-* May, 27th (Sunday) & 28 (Monday) – Whitsuntide
+* May, 27th (Sunday) & 28th (Monday) – Whitsuntide
 * June, 1st (Friday) – Children's Day
 * August, 15th (Wednesday) – Assumption of Mary
 * November, 30th (Friday) – Saint Andrew's Day
