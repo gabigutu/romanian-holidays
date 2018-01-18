@@ -16,7 +16,7 @@ There are 14 public holidays in 2018 in Romania:
 
 # Calendars
 
-## Apple Calendar (iOS, MacOS)
-To add a dedicated "Romanian Holidays" calendar to your Apple device simply access the following link on your iOS or MacOS device:
+## Romanian Holidays Apple Calendar (iOS, MacOS)
+To add a dedicated "Romanian Holidays" calendar to your Apple device simply access the following link on your iOS or MacOS device. As GitHub does not allow link-ing webcal links, please be sure to copy and paste the following link in your browser's URL bar:
 
-Romanian Holidays Apple Calendar: <webcal://p43-calendars.icloud.com/published/2/XwhrNxYos-DmTa64WuGg6DnRtvgXIwTap9xSg68_RI_HCth7VtzwMjA9i42etRZkboLjaAeLT5_gupaxRzEgulEHL9_1jNLaYXncrToRft8>
+`webcal://p43-calendars.icloud.com/published/2/XwhrNxYos-DmTa64WuGg6DnRtvgXIwTap9xSg68_RI_HCth7VtzwMjA9i42etRZkboLjaAeLT5_gupaxRzEgulEHL9_1jNLaYXncrToRft8`

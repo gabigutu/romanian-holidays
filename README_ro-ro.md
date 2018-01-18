@@ -16,6 +16,7 @@ In 2018 sunt 14 zile libere in Romania in 2018:
 
 # Calendare
 
-## Calendar Apple (iOS, MacOS)
-Pentru a adauga un calendar dedicat "Romanian Holidays" pe dispozitivul dumneavoastra Apple, accesati urmatorul link pe dispozitivul dumneavoastra iOS sau MacOS:
-[Romanian Holidays Apple Calendar](webcal://p43-calendars.icloud.com/published/2/XwhrNxYos-DmTa64WuGg6DnRtvgXIwTap9xSg68_RI_HCth7VtzwMjA9i42etRZkboLjaAeLT5_gupaxRzEgulEHL9_1jNLaYXncrToRft8)
+## Calendar Apple cu zilele libere in Romania (iOS, MacOS)
+Pentru a adauga un calendar dedicat "Romanian Holidays" pe dispozitivul dumneavoastra Apple, accesati urmatorul link pe dispozitivul dumneavoastra iOS sau MacOS. Intrucat GitHub nu permite adaugarea de link-uri webcal, va rugam sa copiati link-ul urmator si sa-l lipiti campul de adresa al browser-ului dvs. web:
+
+`webcal://p43-calendars.icloud.com/published/2/XwhrNxYos-DmTa64WuGg6DnRtvgXIwTap9xSg68_RI_HCth7VtzwMjA9i42etRZkboLjaAeLT5_gupaxRzEgulEHL9_1jNLaYXncrToRft8`
